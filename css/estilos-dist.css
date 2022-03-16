@@ -544,26 +544,3 @@ body{
       width: 30%;
     }
   }
-
-  /* DERECHOS RESERVADOS */
-
-  .attribution{
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 13px;
-    color: #000;
-    overflow: hidden;
-  }
-
-  .attribution__a{
-    margin-left: 5px;
-    font-size: 13px;
-    color: var(--button-two);
-    text-decoration: none;
-  }
-  .attribution__a:hover{
-    color: var(--button-one);
-    transition: all ease-in-out 0.3s
-  }
